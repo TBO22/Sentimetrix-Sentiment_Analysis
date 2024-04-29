@@ -1,0 +1,7 @@
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.vcxproj.AssemblyReference.cache
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.vcxproj.ResolveComReference.cache
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.about1.resources
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.Analyzing.resources
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.Dictionary.resources
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.HomePage.resources
+C:\Users\papip\OneDrive\Desktop\PF Project\SentimetrixForm\SentimetrixForm\Debug\SentimetrixForm.vcxproj.GenerateResource.cache
